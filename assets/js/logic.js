@@ -13,18 +13,18 @@
   * When the game ends, it should display their score and give the user the ability 
     to save their initials and their score*/
     
-    //create a list of questions
+    // *create a list of questions
     
-    //click start button, timer to start and first question to appear. with list of 
+    //*click start button, timer to start and first question to appear. with list of 
     //multiply chose answers.
 
-    //click button to relevant answer
+    //*click button to relevant answer
 
-    // when answer is clicked confirm if correct if incorrect deduct time from counter
+    //*when answer is clicked confirm if correct if incorrect deduct 10 seconds from counter
 
-    //run through all questions unless time runs out. 
+    //*run through all questions unless time runs out. 
 
-    //when game ends give user their score and let them record their initials and score 
+    //*when game ends give user their score and let them record their initials and score 
 
 
     
