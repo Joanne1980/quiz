@@ -1,4 +1,4 @@
-var questions =[
+var q =[
     {
         title: "How do you write 'Hello World'in an alert box?",
         choices: ["msg('Hello World')", "msgBox('Hello World')", "alertBox('Hello World')", "alert('Hello World')"],
@@ -50,3 +50,4 @@ var questions =[
         answer: "32"
     },
 ]
+ 
